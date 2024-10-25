@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="7" failures="0" errors="0" time="0.209">
+  <testsuite name="attendee object" errors="0" failures="0" skipped="0" timestamp="2024-10-25T16:28:32" time="0.183" tests="7">
+    <testcase classname="attendee object should have correct properties and values" name="attendee object should have correct properties and values" time="0.002">
+    </testcase>
+    <testcase classname="logAttendeeName function should log the name of the attendee" name="logAttendeeName function should log the name of the attendee" time="0.001">
+    </testcase>
+    <testcase classname="logTicketPrice function should log the ticket price of the attendee" name="logTicketPrice function should log the ticket price of the attendee" time="0">
+    </testcase>
+    <testcase classname="updateTicketType function should update the ticket type of the attendee" name="updateTicketType function should update the ticket type of the attendee" time="0">
+    </testcase>
+    <testcase classname="updateTicketPrice function should update the ticket price of the attendee" name="updateTicketPrice function should update the ticket price of the attendee" time="0">
+    </testcase>
+    <testcase classname="removeEventProperty function should remove the event property from the attendee" name="removeEventProperty function should remove the event property from the attendee" time="0.001">
+    </testcase>
+    <testcase classname="addCheckedInProperty function should add the checkedIn property to the attendee" name="addCheckedInProperty function should add the checkedIn property to the attendee" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
